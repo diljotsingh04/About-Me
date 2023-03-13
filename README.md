@@ -3,4 +3,4 @@
 - 👨‍💻 Developer
 - 🧑‍🎓I am a Student persuing BTech in C.S.E.
 - 🎓 CGCIAN
-- EX-THAPARIAN
+- EX-THAPARIAN 
